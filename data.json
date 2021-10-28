@@ -13,22 +13,32 @@
     {
       "index" : "2",
       "subject" : "Photoshop",
-      "contents" : "Adobe Cloud를 이용하여 "
+      "contents" : "Adobe Cloud를 이용해 파일을 관리하고 있습니다."
     },
     {
       "index" : "3",
-      "subject" : "Illustrator",
-      "contents" : "."
+      "subject" : "HTML5 CSS3",
+      "contents" : "SEO를 고려한 시멘틱 태그를 적극적으로 활용합니다. \nsvg태그와 canvas의 기본적인 특성을 공부했습니다. \nFlex, Grid를 활용한 반응형 사이트를 제작할 수 있습니다. \n주요렌더링경로를 고려한 CSS작성을 지향하고 있습니다. "
     },
     {
       "index" : "4",
-      "subject" : "Illustrator",
-      "contents" : "."
+      "subject" : "Javascript(es6)",
+      "contents" : "기본 문법을 ..."
     },
     {
       "index" : "5",
-      "subject" : "Illustrator",
-      "contents" : "."
+      "subject" : "Python",
+      "contents" : "알고리즘 공부를 파이썬을 통해 했습니다. \n더불어 간단한 웹 크롤링을 구현한 경험이 있습니다."
+    },
+    {
+      "index" : "5",
+      "subject" : "Mysql",
+      "contents" : "쿼리문을 이해하고 작성할 수 있습니다. "
+    },
+    {
+      "index" : "5",
+      "subject" : "React",
+      "contents" : "웹/앱 개발을 위한 환경 설치를 할 수 있습니다. \n주요한 JSX문법을 활용할 수 있습니다."
     }
   ],
   "portfolios" : [
@@ -57,8 +67,50 @@
       "portfolio" : "youwillknovv",
       "date" : "2021.08.28",
       "tech" : "HTML5 / CSS3 / Javascript / JQuery",
-      "gitlink" : "https://github.com/sinri0809/responsive_sony",
-      "demolink" : "https://sinri0809.github.io/responsive_sony/"
+      "gitlink" : "https://github.com/sinri0809/responsive_youwillknovv",
+      "demolink" : "https://sinri0809.github.io/responsive_youwillknovv/"
+    },
+    {
+      "portfolio" : "pulmuone",
+      "date" : "2021.08.14. ~ 08.21.",
+      "tech" : "HTML5 / CSS3 / Javascript / JQuery",
+      "gitlink" : "https://github.com/sinri0809/framework_pulmuon",
+      "demolink" : "https://sinri0809.github.io/framework_pulmuon/"
+    },
+    {
+      "portfolio" : "inha",
+      "date" : "2021.08.05. ~ 08.28.",
+      "tech" : "HTML5 / CSS3 / JQuery",
+      "gitlink" : "https://github.com/sinri0809/framework_pulmuon",
+      "demolink" : "https://sinri0809.github.io/framework_pulmuon/"
+    },
+    {
+      "portfolio" : "stxconst",
+      "date" : "2021.07.21. ~ 07.26.",
+      "tech" : "HTML / CSS / JQuery",
+      "gitlink" : "https://github.com/sinri0809/framework_stxsite",
+      "demolink" : "https://sinri0809.github.io/framework_stxsite/"
+    },
+    {
+      "portfolio" : "this.web",
+      "date" : "2021.10.13. ~",
+      "tech" : "XD / Illustrator / HTML5 / CSS3 / Javascript(ES6)",
+      "gitlink" : "https://github.com/sinri0809/sinristory",
+      "demolink" : ""
+    },
+    {
+      "portfolio" : "icandrink",
+      "date" : "",
+      "tech" : "React",
+      "gitlink" : "",
+      "demolink" : ""
+    },
+    {
+      "portfolio" : "musinsamagazine",
+      "date" : "2021.07.28. ~ 08.13.",
+      "tech" : "XD / Photoshop",
+      "gitlink" : "",
+      "demolink" : ""
     }
   ]
 }

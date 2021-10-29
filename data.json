@@ -23,7 +23,7 @@
     {
       "index" : "4",
       "subject" : "Javascript(es6)",
-      "contents" : "기본 문법을 ..."
+      "contents" : "기본 문법을 "
     },
     {
       "index" : "5",
@@ -65,10 +65,10 @@
     },
     {
       "portfolio" : "youwillknovv",
-      "date" : "2021.08.28",
+      "date" : "2021.08.28 ~ now",
       "tech" : "HTML5 / CSS3 / Javascript / JQuery",
-      "gitlink" : "https://github.com/sinri0809/responsive_youwillknovv",
-      "demolink" : "https://sinri0809.github.io/responsive_youwillknovv/"
+      "gitlink" : "https://sinri0809.github.io/responsive_youwillknovv/",
+      "demolink" : "https://github.com/sinri0809/responsive_youwillknovv"
     },
     {
       "portfolio" : "pulmuone",
@@ -81,8 +81,8 @@
       "portfolio" : "inha",
       "date" : "2021.08.05. ~ 08.28.",
       "tech" : "HTML5 / CSS3 / JQuery",
-      "gitlink" : "https://github.com/sinri0809/framework_pulmuon",
-      "demolink" : "https://sinri0809.github.io/framework_pulmuon/"
+      "gitlink" : "https://github.com/sinri0809/framework_inha",
+      "demolink" : "https://sinri0809.github.io/framework_inha/"
     },
     {
       "portfolio" : "stxconst",
@@ -96,21 +96,28 @@
       "date" : "2021.10.13. ~",
       "tech" : "XD / Illustrator / HTML5 / CSS3 / Javascript(ES6)",
       "gitlink" : "https://github.com/sinri0809/sinristory",
-      "demolink" : ""
+      "demolink" : "#index.html"
     },
     {
       "portfolio" : "icandrink",
-      "date" : "",
-      "tech" : "React",
-      "gitlink" : "",
+      "date" : "2021.08.25. ~ (now : develope)",
+      "tech" : "XD / Illustrator / React",
+      "gitlink" : "https://github.com/sinri0809/icandrink/projects",
       "demolink" : ""
     },
     {
       "portfolio" : "musinsamagazine",
       "date" : "2021.07.28. ~ 08.13.",
       "tech" : "XD / Photoshop",
+      "gitlink" : "https://sinri0809.notion.site/musinsa-magazine-0a1095be86624a169b4e795fae99afbc",
+      "demolink" : "https://xd.adobe.com/view/40b45cb4-1264-45f0-bef3-34c211fa4759-15e7/"
+    },
+    {
+      "portfolio" : "you can go",
+      "date" : "2021.08.16. ~ 08.24.",
+      "tech" : "XD / Photoshop",
       "gitlink" : "",
-      "demolink" : ""
+      "demolink" : "https://xd.adobe.com/view/0c582134-7a76-444f-a977-1be5b68da284-590b/screen/569a5d36-34b2-4255-8311-1c67e8e2ce40?fullscreen"
     }
   ]
 }

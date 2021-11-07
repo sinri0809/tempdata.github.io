@@ -23,7 +23,6 @@
     "sinri" : "sinri is meaning new town, I found this name from my town.",
     "nation" : "Republic of Korea, Daegu"
   },
-  
   "skills_en" : [
     {
       "index" : "0",
@@ -66,20 +65,12 @@
       "contents" : "I can get ready to make WEB/APP develope environment \nI'm studying JSX grammar. \n Also, I'm positively using Bootstrap and SCSS."
     }
   ],
-  "edu" : [
-    {
-      "edu" : "KNU, electronics, Bachelors",
-      "duration" : "(2015.03~2020.08)"
-    },
-    {
-      "course" : "Green Art Academi, PWA, passed",
-      "duration" : "(2021.06~12)"
-    },
-    {
-      "lang" : "Korean(mother language)"
-    }
-  ],
-  "study note" : {
+  "edu" : {
+    "edu" : "KNU, electronics, Bachelors",
+    "course" : "Green Art Academi, PWA, passed",
+    "lang" : "Korean(mother language)"
+  },
+  "study_note" : {
     "0" : "I note in site",
     "1" : "I'm managing design and project."
   }

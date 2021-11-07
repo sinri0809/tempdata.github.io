@@ -1,26 +1,24 @@
 {
   "hgroup" : {
-      "h1" : "writing dream,",
-      "h2" : "I'm sinri"
+    "h1" : "I'm sinri,",
+    "h2" : "writing a dream"
   },
   "why" : {
-      "0" : "When I'm young, I dreamed Cartoonist. As I inspired by Cartoon, I wanted to give positive message to people. " ,
-      "1" : "I found UX when I worked in Start-up team as a designer. I was really into work to concern and develope User Experience design ",
-      "2" : "I feel both UX and Cartoon give the special story to people. The story is made by the efforts I want to tell. I can do that, I enjoy that. So I decide my goal in UX area",
-      "3" : "Even though my major is not exactly related with UX, I pull my efforts personally. <br> First, I read books about UX. I started with design books in my University. I studied for getting my value. <br> Second, I prepared Exchange Program to take a MMI(HMI) class. I wanted to take that class. Because I want to learn professionally. Also, I felt my insights will be narrow only in Korea.",
-      "4" : "After arrived in korea, I prepared for getting job. However I got into legal trouble. I had to use a lot of time and mental power. Finally I was almost in depression. <br>I could overcome that Because I have a dream. I rewind my dream and decided to learn.",
-      "5" : "I think life is way to keep finding myself. I feel I found myself by showing my work to another. That work can be pictures and design",
-      "6" : "The reason I decided to learn WEB develope is I want to make my ideas in real. p ",
-      "7" : "My dream is showing the new way of life to people. I want to make easier way, better idea, inspiration than normal.<br> I always do my best with humility. I'm junior for now. But I keep studying my thing. ",
-      "8" : "I said I'm writing dream. Because I write everytime when I start everyting.<br> Whatever I write, I think it is same with writing my dream. <br> Now I want to work where there are dream.",
-      "9" : "Thank you for reading",
-      "remark" : {
-        "0" : "2017s, I started UX & Design study",
-        "1" : "2021s, Books in my room, after arrived in Korea"
-      }
+    "0" : "When I'm young, I dreamed Cartoonist. As I inspired by Cartoon, I wanted to give positive message to people. " ,
+    "1" : "I found UX when I worked in Start-up team as a designer. I was really into work to consider and develope a User Experience ",
+    "2" : "I feel both UX and Cartoon give the special story to people. The story is made by the efforts I want to tell. I can do that, I enjoy that. So I decide my goal in UX area.",
+    "3" : "Even though my major is not exactly related with UX, I poured my efforts personally. <br> First, I read books about UX. I started with design books in my University. I studied for getting my value. <br> Second, I prepared Exchange Program to take a MMI(HMI) class. I wanted to take that class. Because I want to learn professionally. Also, I felt my insights will be narrow only in Korea.",
+    "4" : "After arrived in korea, I prepared for getting a job. However I got into legal trouble. I had to use a lot of time and mental power. Finally I was almost in depression. <br>Because I have a dream, I could overcome my situation. I rewind my dream and decided to learn develope again.",
+    "5" : "I think life is way to keep finding myself. I feel I found myself by showing my work to another. That works can be pictures and designs for me.",
+    "6" : "The reason I decided to learn WEB develope is I want to make my ideas in real. Everythings I drawed and designed was not real. And nobody can see my story.",
+    "7" : "My dream is showing the new way of life to people. I want to make easier way, better idea, inspiration to Users.<br> I always do my best with humility. I'm junior for now. But I keep studying my things.",
+    "8" : "I said I'm writing dream. Because I write everything when I do everytime.<br> Whatever I write, I think it is same with writing my dream. <br> And Now, I want to work where there is a dream.",
+    "9" : "Thank you for reading.",
+    "10" : "2017s, I started UX & Design study",
+    "11" : "2021s, Books in my room, after arrived in Korea"
   },
   "profile" : {
-    "sinri" : "sinri is meaning new town, I found this name from my town.",
+    "sinri" : "sinri<b>(新里)</b> is meaning new town, I found this name from my town.",
     "nation" : "Republic of Korea, Daegu"
   },
   "skills_en" : [

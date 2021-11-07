@@ -101,7 +101,7 @@
     {
       "portfolio" : "this.web",
       "date" : "2021.10.13. ~",
-      "tech" : "XD / Illustrator / HTML5 / CSS3 / Javascript(ES6)",
+      "tech" : "XD / Illustrator / HTML5 / CSS3 / Javascript(ES6) / nodemailer",
       "linktype" : "github",
       "link" : "https://github.com/sinri0809/sinristory",
       "demolink" : "#index.html"

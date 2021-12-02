@@ -100,27 +100,27 @@
     },
     {
       "portfolio" : "this.web",
-      "date" : "2021.10.13. ~",
-      "tech" : "XD / Illustrator / HTML5 / CSS3 / Javascript(ES6) / nodemailer",
+      "date" : "2021.10.13. ~ 11.11.",
+      "tech" : "XD / Illustrator / HTML5 / CSS3 / Javascript(ES6)",
       "linktype" : "github",
       "link" : "https://github.com/sinri0809/sinristory",
-      "demolink" : "#index.html"
+      "demolink" : "https://sinri0809.notion.site/271eae3ba79f4b418a85a00f5ea45b1f?v=2eea062310c74ca6ba99adf2a8dc6979"
     },
     {
       "portfolio" : "todo",
-      "date" : "2021.10.17. ~ now",
-      "tech" : "React / Bootstrap / SASS",
+      "date" : "2021.10.17. ~ 11.26.",
+      "tech" : "React / Bootstrap / SCSS",
       "linktype" : "github",
       "link" : "https://github.com/sinri0809/todo",
-      "demolink" : "https://sinri0809.github.io/todo/"
+      "demolink" : "https://sinri0809.notion.site/todo-list-574ddd2a272646b6b60eaf82329e9adc"
     },
     {
       "portfolio" : "icandrink",
-      "date" : "2021.08.25. ~ (now : develope)",
+      "date" : "2021.08.25. ~ on progress",
       "tech" : "XD / Illustrator / React",
       "linktype" : "github",
-      "link" : "https://github.com/sinri0809/icandrink/projects",
-      "demolink" : ""
+      "link" : "https://github.com/sinri0809/icandrink",
+      "demolink" : "https://sinri0809.notion.site/3a8dad3f6d0c45eca60d0059bf0a01a3?v=1260de65d57f4b3c9bc143a1aff6cc30"
     },
     {
       "portfolio" : "musinsamagazine",

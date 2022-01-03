@@ -28,17 +28,17 @@
     {
       "index" : "5",
       "subject" : "Python",
-      "contents" : "알고리즘 공부를 파이썬을 통해 했습니다. \n 간단한 웹 크롤링을 구현한 경험이 있습니다.(로또 번호 크롤링) "
+      "contents" : "기본 알고리즘, 자료구조를 파이썬을 통해 공부했습니다. \n 간단한 웹 크롤링을 구현한 경험이 있습니다.(로또 번호 크롤링) "
     },
     {
       "index" : "5",
       "subject" : "Mysql",
-      "contents" : "쿼리문을 이해하고 작성할 수 있습니다. \n SQLD 시험을 준비하고 있습니다."
+      "contents" : "쿼리문을 이해하고 작성할 수 있습니다."
     },
     {
       "index" : "5",
       "subject" : "React",
-      "contents" : "웹/앱 개발을 위한 환경 설치를 할 수 있습니다. \n주요한 JSX문법을 활용할 수 있습니다. \n Bootstarp과 SASS 라이브러리를 설치 및 활용하고 있습니다."
+      "contents" : "웹/앱 개발을 위한 환경 설치를 할 수 있습니다. \n주요한 JSX문법을 활용할 수 있습니다."
     }
   ],
   "portfolios" : [
@@ -112,7 +112,15 @@
       "tech" : "React / Bootstrap / SCSS",
       "linktype" : "github",
       "link" : "https://github.com/sinri0809/todo",
-      "demolink" : "https://sinri0809.notion.site/todo-list-574ddd2a272646b6b60eaf82329e9adc"
+      "demolink" : "https://sinri0809.github.io/todo.github.io/"
+    },
+    {
+      "portfolio" : "playground",
+      "date" : "2021.12.22. ~ on progress",
+      "tech" : "React / Firebase / SCSS",
+      "linktype" : "github",
+      "link" : "https://github.com/sinri0809/sinriplayground",
+      "demolink" : "https://sinri0809.github.io/playground.github.io/"
     },
     {
       "portfolio" : "icandrink",
